@@ -1,0 +1,6 @@
+# Ignorar archivos y carpetas innecesarios
+.git
+.gitignore
+Dockerfile
+.dockerignore
+README.md
