@@ -16,7 +16,7 @@ Before running the application, make sure you have the following:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/websocket-go.git
+    git clone https://github.com/JordinPinzon/websocket-go.git
     cd websocket-go
     ```
 
